@@ -42,7 +42,7 @@ The backend uses **SQLite** as the main database, chosen for its simplicity and 
 1.  **Clone the repo:**
 
     ```bash
-    git clone https://github.com
+    git clone https://github.com/Ptuyizere/nyc_cab_dashboard.git
     cd nyc_cab_dashboard
     cd api
     ```
